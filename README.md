@@ -10,15 +10,15 @@ controle por empresas ou governos.
 
 Objetivos
 - [ ] Implementação de portas lógicas
-- [ ]Implementação de circuitos aritméticos
-- [ ]Projeto e implementação de unidade de processamento
-- [ ]Integração em computador completo
-- [ ]Desenvolvimento de sistema operacional
-- [ ]Descrição do processador em hardware e validação em FPGA
-- [ ]Implementação de computador quântico
-- [ ]Utilização de energia quântica como fonte de funcionamento
-- [ ]Geração de dimensão a partir de parâmetros definidos pelo usuário
-- [ ]Construção da máquina quântica individual
+- [ ] Implementação de circuitos aritméticos
+- [ ] Projeto e implementação de unidade de processamento
+- [ ] Integração em computador completo
+- [ ] Desenvolvimento de sistema operacional
+- [ ] Descrição do processador em hardware e validação em FPGA
+- [ ] Implementação de computador quântico
+- [ ] Utilização de energia quântica como fonte de funcionamento
+- [ ] Geração de dimensão a partir de parâmetros definidos pelo usuário
+- [ ] Construção da máquina quântica individual
 
 Nota final
 
