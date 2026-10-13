@@ -7,7 +7,7 @@ O objetivo final é um dispositivo de geração dimensional: uma máquina capaz 
 Para preservar a autonomia do usuário, o sistema é concebido como unidade individual. Cada pessoa operará sua própria máquina quântica, sem dependência de infraestrutura centralizada e, portanto, sem controle por empresas ou governos.
 
 Objetivos
--[ ] Implementação de portas lógicas
+-[] Implementação de portas lógicas
  Implementação de circuitos aritméticos
  Projeto e implementação de unidade de processamento
  Integração em computador completo
