@@ -8,6 +8,7 @@ se confunde com realidade virtual, pois não há simulação sensorial, e sim a 
 Para preservar a autonomia do usuário, o sistema é concebido como unidade individual. Cada pessoa operará sua própria máquina quântica, sem dependência de infraestrutura centralizada e, portanto, sem
 controle por empresas ou governos.
 
+
 Objetivos
 - [ ] Implementação de portas lógicas
 - [ ] Implementação de circuitos aritméticos
@@ -19,6 +20,8 @@ Objetivos
 - [ ] Utilização de energia quântica como fonte de funcionamento
 - [ ] Geração de dimensão a partir de parâmetros definidos pelo usuário
 - [ ] Construção da máquina quântica individual
+
+
 
 Nota final
 
