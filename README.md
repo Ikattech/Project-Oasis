@@ -22,7 +22,7 @@ Objetivos
 - [ ] Construção da máquina quântica individual
 
 
-Nota sobre energia quântica
+## Nota sobre energia quântica
 
 Energia quântica refere-se ao uso de fenômenos da mecânica quântica para converter energia de forma eficiente e limpa, como em células solares de nova geração, e não à criação de energia a partir do nada. Em
 física, a energia é conservada.
@@ -32,6 +32,6 @@ por si só, não armazenam energia nem permitem controlar o resultado de mediç�
 Hipóteses atualmente consideradas impossíveis pela física conhecida também ficam em aberto para investigação futura.
 
 
-Nota final
+## Nota final
 
 Projeto de longo prazo. Os objetivos não seguem ordem fixa e podem ser executados em paralelo, conforme a evolução de cada componente.
