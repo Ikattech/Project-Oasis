@@ -22,6 +22,15 @@ Objetivos
 - [ ] Construção da máquina quântica individual
 
 
+Nota sobre energia quântica
+
+Energia quântica refere-se ao uso de fenômenos da mecânica quântica para converter energia de forma eficiente e limpa, como em células solares de nova geração, e não à criação de energia a partir do nada. Em
+física, a energia é conservada.
+
+Hipótese a investigar: extração de energia do vácuo quântico (energia do ponto zero). Até o momento, não há método demonstrado para obter energia útil e contínua por esse caminho. Probabilidades quânticas,
+por si só, não armazenam energia nem permitem controlar o resultado de medições. 
+Hipóteses atualmente consideradas impossíveis pela física conhecida também ficam em aberto para investigação futura.
+
 
 Nota final
 
