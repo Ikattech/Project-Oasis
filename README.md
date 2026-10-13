@@ -1,4 +1,4 @@
-# Funriosity
+# Project Oasis
 
 Projeto de construção de um sistema computacional completo a partir de primeiros princípios, abrangendo desde a lógica digital clássica até uma arquitetura de computação quântica.
 
